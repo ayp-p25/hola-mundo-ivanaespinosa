@@ -1,15 +1,15 @@
 """
+Ivana Espinosa Hernández
+14 de febrero del 2025
 Inserta el encabezado aquí y escribe tu código abajo
 """
 
-# Declaraciones
-CONSTANTE = valor
 
 # Entradas
-entrada = input()
+nombre = input("¿Cómo te llamas?")
 
 # Proceso
-
+saludo = "Hola, " + nombre
 
 # Salidas
-print(salida)
+print(saludo)
